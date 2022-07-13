@@ -1,2 +1,2 @@
 # ineuron-tasks
-these are the string tasks from ineuron
+these are the string related tasks from ineuron
